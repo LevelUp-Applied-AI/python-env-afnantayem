@@ -27,3 +27,10 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+## When to use each
+
+Use a Jupyter notebook when you want to explore data interactively, visualize results immediately, or explain your analysis step by step. Notebooks are useful for experimenting and documenting the process. 
+
+Use a Python script when you want to run the same analysis automatically, repeatedly, or in production. Scripts are better for clean, reusable, and reproducible code.
